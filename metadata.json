@@ -1,0 +1,6 @@
+{
+  "name": "Creator Desk",
+  "description": "Modern Android app for content creators to capture ideas, craft high-retention video hooks, schedule posts, and track publishing progress with calendar and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
